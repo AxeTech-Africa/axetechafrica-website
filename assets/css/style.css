@@ -29342,10 +29342,17 @@ body.servi-ce-details .rts-footer-two-area {
   display: none;
 }
 
+
 .header-three .logo-area {
   display: block;
 }
 .header-three .logo-area-white {
   display: none;
 }
+
+.logo {
+  width: 400px;  /* Adjust to the desired size */
+  height: auto;  /* Maintain aspect ratio */
+}
+
 /*# sourceMappingURL=../maps/style.css.map */
